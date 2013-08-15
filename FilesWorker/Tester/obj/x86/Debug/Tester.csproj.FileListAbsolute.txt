@@ -1,0 +1,9 @@
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\Tester.exe
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\Tester.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\FilesManager.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\StringExtension.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\FilesManager.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\bin\Debug\StringExtension.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\Tester\obj\x86\Debug\Tester.pdb

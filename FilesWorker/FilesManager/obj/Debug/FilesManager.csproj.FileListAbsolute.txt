@@ -1,0 +1,7 @@
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\bin\Debug\FilesManager.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\bin\Debug\FilesManager.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\bin\Debug\StringExtension.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\bin\Debug\StringExtension.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\obj\Debug\FilesManager.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesManager\obj\Debug\FilesManager.pdb

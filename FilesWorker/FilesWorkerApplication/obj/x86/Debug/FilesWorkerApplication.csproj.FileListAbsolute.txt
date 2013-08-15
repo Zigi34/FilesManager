@@ -1,0 +1,13 @@
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\FilesWorkerApplication.exe
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\FilesWorkerApplication.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\FilesManager.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\StringExtension.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\FilesManager.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\bin\Debug\StringExtension.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\FilesWorkerApplication.Properties.Resources.resources
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\FilesWorkerApplication.exe
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\FilesWorkerApplication.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\FilesWorkerApplication\obj\x86\Debug\FilesWorkerApplication.FilesWorker.resources

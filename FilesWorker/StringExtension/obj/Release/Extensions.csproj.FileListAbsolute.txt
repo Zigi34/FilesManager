@@ -1,0 +1,5 @@
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\StringExtension\bin\Release\StringExtension.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\StringExtension\bin\Release\StringExtension.pdb
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\StringExtension\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\StringExtension\obj\Release\StringExtension.dll
+C:\Users\Zigi\Škola\PROGRAMOVÁNÍ\FilesWorker\StringExtension\obj\Release\StringExtension.pdb
